@@ -1,0 +1,9 @@
+
+# Abaikan folder tertentu
+# .vscode/
+
+# Abaikan file tertentu
+
+*.class
+
+README.md
