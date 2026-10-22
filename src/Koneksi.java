@@ -5,7 +5,7 @@ import java.sql.SQLException;
 public class Koneksi {
     public Connection myKoneksi() throws SQLException{
 
-        String url = "jdbc:mysql://localhost:3306/"; //hapus java_mydb jika database belum dibuat
+        String url = "jdbc:mysql://localhost:3306/java_mydb"; //hapus java_mydb jika database belum dibuat
         String user = "root";
         String pass = "";
 
