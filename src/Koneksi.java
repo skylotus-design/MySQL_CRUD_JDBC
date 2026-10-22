@@ -10,6 +10,8 @@ public class Koneksi {
         String pass = "";
 
         Connection kon = DriverManager.getConnection(url, user, pass);
+
+        
         System.out.println("Koneksi berhasil");
         return kon;
     }

@@ -5,8 +5,8 @@ public class TambahData {
 
     public static void main(String[] args) throws SQLException {
 
-        String nama = "Nafillah Fauziyah";
-        String gender ="Perempuan";
+        String nama = "Ananda Daniswara";
+        String gender ="Laki-laki";
         String kelas = "12A";
         int nilai = 80;
         
