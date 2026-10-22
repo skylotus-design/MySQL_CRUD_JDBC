@@ -4,7 +4,6 @@ import java.sql.PreparedStatement;
 
 public class TampilData {
     
-
     public void tampil() throws SQLException{
 
         String SQL = "SELECT * FROM siswa";
